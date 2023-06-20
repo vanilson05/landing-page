@@ -1,6 +1,6 @@
 # landing-page
 
-essse foi um progeto que me ensinou muinto sobre tegs e variaves.
+essse foi um progeto que me ensinou muinto.
 apenas começando com esse pequeno projeto de landing page, 
 um codigo bassico maas interessante para mim. seguindo como sempre 
 aprendendo dia apos dia 
